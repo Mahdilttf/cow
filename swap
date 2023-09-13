@@ -3,7 +3,7 @@ for test
 
 
 
-sudo apt-get remove docker docker-engine docker.io containerd
+sudo apt-get remove docker docker-engine docker.io
 
 sudo apt-get update
 
