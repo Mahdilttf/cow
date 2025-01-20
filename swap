@@ -13,7 +13,7 @@ sudo apt-get install \
     lsb-release
 
 
-sudo mkdir -p /etc/apt/keyrings
+sudo mkdir -p /etc/apt/eyrings
 curl -fsSL https://download.docker. sudo gpg --dearm
 
 
